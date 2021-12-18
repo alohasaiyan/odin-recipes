@@ -4,7 +4,7 @@ body {
 
 * {
     font-family: helvetica, sans-serif;
-    color: #798777;
+    color: #688065;
 }
 
 img {
@@ -18,4 +18,8 @@ img {
 
 .section-title {
     text-align: justify;
+}
+
+.menu {
+    text-align: center;
 }
