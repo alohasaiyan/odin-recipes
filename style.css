@@ -1,0 +1,21 @@
+body {
+    background-color: #F8EDE3;
+}
+
+* {
+    font-family: helvetica, sans-serif;
+    color: #798777;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.heading {
+    text-align: center;
+}
+
+.section-title {
+    text-align: justify;
+}
